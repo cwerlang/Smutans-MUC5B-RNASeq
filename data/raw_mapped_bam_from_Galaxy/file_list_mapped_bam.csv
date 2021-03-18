@@ -1,0 +1,9 @@
+,condition,sample
+1-media.mapped.bam,Media,1-media
+1-muc5b.mapped.bam,MUC5BMucin,1-5bmuc
+1-5bgly.mapped.bam,MUC5BGlycans,1-5bgly
+1-5acgly.mapped.bam,MUC5ACGlycans,1-5acgly
+2-media.mapped.bam,Media,2-media
+2-muc5b.mapped.bam,MUC5BMucin,2-5bmuc
+2-5bgly.mapped.bam,MUC5BGlycans,2-5bgly
+2-5acgly.mapped.bam,MUC5ACGlycans,2-5acgly
